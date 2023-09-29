@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-Me llamo **Raúl Gabriel Gerónimo Herrera** y soy `Analista de Bases de Datos` este es mi perfil en donde les contare algunas cosas sobre mí.
+Me llamo **Raúl Gabriel Gerónimo Herrera** y soy `Programador .NET` este es mi perfil en donde les contare algunas cosas sobre mí.
 
 Soy del Estado de México, me gusta realizar proyectos sobre las Bases de Datos, actualmente no cuento con experiencia profesional y estoy en búsqueda de mi primer empleo, soy alguien responsable y me gusta aprender asi como mostrar mis conocimientos con otros.
 
