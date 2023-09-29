@@ -3,7 +3,7 @@ Me llamo **Raúl Gabriel Gerónimo Herrera** y soy `Programador .NET` este es mi
 
 Soy del Estado de México, me gusta realizar proyectos sobre las Bases de Datos, actualmente no cuento con experiencia profesional y estoy en búsqueda de mi primer empleo, soy alguien responsable y me gusta aprender asi como mostrar mis conocimientos con otros.
 
-Trabajo en bases de datos principalmente de `MySQL` pero también posero conocimientos sobre `SQL Server, MongoDB y PostgreSQL`. Los sistemas que he realizado en base a estoy gestores de bases de datos principalmente son utilizando: **PHP, Java Spring, Angular**.
+Trabajo en bases de datos principalmente de `SQL Server` pero también posero conocimientos sobre `MySQL, MongoDB y MariaDB`. Los sistemas que he realizado en base a estoy gestores de bases de datos principalmente son utilizando: **.NET Framework, Angular, Java Spring, PHP**.
 
 Asimismo, también poseo conocimientos sobre la paquetería de Office de la cual soy `Office Specialist` en el 2018, en este certificado se encuentran: **Word, Excel y PowerPoint**.
 
