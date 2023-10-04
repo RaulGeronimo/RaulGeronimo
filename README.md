@@ -1,13 +1,13 @@
 ### Hola a todos 👋
-Me llamo **Raúl Gabriel Gerónimo Herrera** y soy `Programador .NET` este es mi perfil en donde les contare algunas cosas sobre mí.
+Me llamo **Raúl Gabriel Gerónimo Herrera** y soy `Programador .NET`, me considero responsable y autodidacta en cuanto a los conocimientos que he adquirido.
 
-Soy del Estado de México, me gusta realizar proyectos sobre las Bases de Datos, actualmente no cuento con experiencia profesional y estoy en búsqueda de mi primer empleo, soy alguien responsable y me gusta aprender asi como mostrar mis conocimientos con otros.
+- Soy del Estado de México
+- Me gusta llevar a cabo proyectos de base de datos, he trabajado con `SQL Server` y de igual forma tengo conocimiento en `MySQL, MongoDB y MariaDB`.
+- En la parte de sistemas manejo las tecnologías de `Angular, Java Spring y PHP`.
 
-Trabajo en bases de datos principalmente de `SQL Server` pero también posero conocimientos sobre `MySQL, MongoDB y MariaDB`. Los sistemas que he realizado en base a estoy gestores de bases de datos principalmente son utilizando: **.NET Framework, Angular, Java Spring, PHP**.
+Asimismo, tengo conocimientos sobre la paquetería de Office (Word, Excel y Powerpoint) donde salí como `Office Specialist` en el 2018.
 
-Asimismo, también poseo conocimientos sobre la paquetería de Office de la cual soy `Office Specialist` en el 2018, en este certificado se encuentran: **Word, Excel y PowerPoint**.
-
-Un detalle extra es que me gusta la Música y también practico la Guitarra eléctrica y la acústica.
+Busco seguir creciendo de manera profesional, me considero responsable y autodidacta en cuanto los conocimientos que he adquirido.
 
 Gracias por visitar mi perfil.
 
